@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: com.app.demo.webmvn.AppTest
+Test set: com.kmit.my_java_app.AppTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.056 s -- in com.app.demo.webmvn.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.026 s -- in com.kmit.my_java_app.AppTest
